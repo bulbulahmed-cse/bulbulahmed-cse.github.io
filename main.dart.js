@@ -70673,7 +70673,7 @@ A.Hl.prototype={
 I(a){$.aqR.b=a
 return new A.xv(new A.a1s(),!0,!0,A.avG(a),null)}}
 A.a1s.prototype={
-$2(a,b){return new A.ns(B.AM,"Bulbul Portfolio",A.as3(),A.as3(),!1,null)},
+$2(a,b){return new A.ns(B.AM,"Portfolio",A.as3(),A.as3(),!1,null)},
 $S:457}
 A.Gr.prototype={
 TO(a){var s,r,q,p=this,o="education",n="experience",m="personal_info",l=J.ah(a)
